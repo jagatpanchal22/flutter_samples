@@ -2,4 +2,4 @@
 Learning Flutter Apps from https://flutter.dev/docs/deployment/cd
 
 
-A Simple Name Generator App from CodeLab for understanding flutter.
+* A Simple Name Generator App from CodeLab for understanding flutter.
